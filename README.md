@@ -1,12 +1,11 @@
 ## 系统开发工具基础课程
 
 - lab1_git: 版本控制（Git）实验
-
-
+- lab2_Shell&Vim&数据整理实验
 
 ---
 
-本仓库用于系统开发工具基础实验save
+本仓库用于系统开发工具基础实验存档
 
 附 [学习地址](https://missing-semester-cn.github.io/)
 
