@@ -1,7 +1,7 @@
 ## 系统开发工具基础课程
 
-- lab1_git: 版本控制（Git）实验
-- lab2_Shell&Vim&数据整理实验
+- lab1：版本控制（Git）实验
+- lab2：Shell&Vim&数据整理实验
 
 ---
 
