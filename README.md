@@ -2,6 +2,7 @@
 
 - lab1：版本控制（Git）实验
 - lab2：Shell&Vim&数据整理实验
+- lab3：命令行环境&python应用实验
 
 ---
 
